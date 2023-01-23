@@ -1,6 +1,6 @@
 version     = "0.1.0"
 author      = "Ryan Oldenburg"
-description = "Brew JSON Web Token in pure Nim"
+description = "Brew JSON Web Tokens in pure Nim"
 license     = "MIT"
 
 srcDir = "src"
