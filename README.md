@@ -25,7 +25,7 @@ PS256 | ⛔
 PS384 | ⛔
 PS512 | ⛔
 
-To learn more about JWT, this site is a great reference: https://jwt.io/
+To learn more about JWT, this site is a great reference: https://jwt.io
 
 ## How to use JWTea
 
