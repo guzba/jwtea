@@ -8,7 +8,7 @@ JWTea enables the creation of JSON Web Tokens in pure Nim, without any dependenc
 
 OpenSSL is one of the truly legendary sources of programmer pain so this repo was motivated by refusing that dependency.
 
-JWTea does not currently support all JWT algorithms. Two very popular algorithms are supported now and support for more can be added.
+JWTea does not currently support all JWT algorithms. Two very popular algorithms, including RS256 used by Google, are supported now and support for more can be added.
 
 Algorithm | Status
 --- | ---:
