@@ -1,0 +1,1 @@
+signJwt	jwtea.html#signJwt,JsonNode,JsonNode,string	jwtea: signJwt(header, claims: JsonNode; secret: string): string	
