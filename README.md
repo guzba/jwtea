@@ -1,8 +1,10 @@
 # JWTea
 
+`nimble install jwtea`
+
 ![Github Actions](https://github.com/guzba/jwtea/workflows/Github%20Actions/badge.svg)
 
-`nimble install jwtea`
+[API reference](https://guzba.github.io/jwtea/)
 
 JWTea enables the creation of JSON Web Tokens in pure Nim, without any dependency on OpenSSL or other external libraries.
 
