@@ -1,1 +1,2 @@
-signJwt	jwtea.html#signJwt,JsonNode,JsonNode,string	jwtea: signJwt(header, claims: JsonNode; secret: string): string	
+nimTitle	jwtea	jwtea.html	module src/jwtea		0
+nim	signJwt	jwtea.html#signJwt,JsonNode,JsonNode,string	proc signJwt(header, claims: JsonNode; secret: string): string		8
